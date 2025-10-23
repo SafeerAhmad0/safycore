@@ -5,7 +5,8 @@
       "Bash(find:*)",
       "Bash(npx shadcn@latest add \"https://ui.aceternity.com/r/background-gradient-animation.json\")",
       "Bash(mkdir -p \"C:\\Users\\safee\\Documents\\Projects\\SafyCore\\safycore\\src\\components\\ui\")",
-      "Bash(npm install clsx tailwind-merge)"
+      "Bash(npm install clsx tailwind-merge)",
+      "Bash(npm install:*)"
     ],
     "deny": [],
     "ask": []
